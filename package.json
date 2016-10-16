@@ -1,0 +1,28 @@
+{
+  "name": "flux.com",
+  "version": "1.0.0",
+  "description": "flux架构模式分析",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boylufeng20141007/flux.com.git"
+  },
+  "keywords": [
+    "flux"
+  ],
+  "author": "lux.lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boylufeng20141007/flux.com/issues"
+  },
+  "homepage": "https://github.com/boylufeng20141007/flux.com#readme",
+  "dependencies": {
+    "events": "^1.1.1",
+    "flux": "^3.0.0",
+    "object-assign": "^4.1.0",
+    "react": "^15.3.2"
+  }
+}
